@@ -7,3 +7,5 @@ This is a demo repo for the course cloud scale specialization
 * one
 * two
 * three
+
+# This is a small sample of [my code](https://gist.github.com/Kaushik-Suresh/ce2e76c067f3abb466e464068c873646)
