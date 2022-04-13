@@ -1,0 +1,10 @@
+pylint
+pytest
+click
+black
+pytest-cov
+tweepy == 3.10.0
+tqdm
+pandas
+numpy
+investpy
